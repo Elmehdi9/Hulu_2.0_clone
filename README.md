@@ -1,9 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-![hulu](https://user-images.githubusercontent.com/95859956/159121659-35ad983e-7102-4f8a-9324-b79aeddab761.png)
-## OverView
+This is a [Next.js](https://nextjs.org/) project developped with [Tailwindcss](https://tailwindcss.com/)
 
+![hulu](https://user-images.githubusercontent.com/95859956/159121659-35ad983e-7102-4f8a-9324-b79aeddab761.png)
+
+## OverView
+On large screen
 
 ![large screen](https://user-images.githubusercontent.com/95859956/159121687-4d5df80c-d81e-472b-a887-734a81d7830f.png)
+
+On small screen 
 
 ![small screen](https://user-images.githubusercontent.com/95859956/159121691-1dfdf25f-3e93-4e6e-81f7-d4c1584c42df.png)
 
